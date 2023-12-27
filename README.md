@@ -22,7 +22,7 @@
 
 - **분석 결과(code)**
 
-    - ml_regression/housing_price_predict.ipynb
+    - ml_regression/housing_price_predict.ipynb -> [링크](https://github.com/datasbb/machine-learning-project/blob/main/ml_regression/housing_price_predict.ipynb)
 
 - **데이터 변수**
 
