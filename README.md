@@ -45,19 +45,19 @@
   - [Drug Classification](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
 
 - **분석 결과(code)**
- - [ml_classification/drug_classify.ipynb](https://github.com/datasbb/machine-learning-project/blob/main/ml_classification/drug_classify.ipynb)
- - [코드 상세 설명 - Blog](https://blog.naver.com/databb/223311358149)
+  - [ml_classification/drug_classify.ipynb](https://github.com/datasbb/machine-learning-project/blob/main/ml_classification/drug_classify.ipynb)
+  - [코드 상세 설명 - Blog](https://blog.naver.com/databb/223311358149)
 
 - **데이터 변수**
- - `Age` : 나이
- - `Sex` : 성별
- - `BP` : 혈압 수준 (Blood Pressure Levels)
- - `Cholesterol` : 콜레스테롤 수준
- - `Na_to_K` : 체내 나트륨과 칼륨 비율 (전해질 균형, Na to Potassium Ration)
- - `Drug` : 약물 타입
+  - `Age` : 나이
+  - `Sex` : 성별
+  - `BP` : 혈압 수준 (Blood Pressure Levels)
+  - `Cholesterol` : 콜레스테롤 수준
+  - `Na_to_K` : 체내 나트륨과 칼륨 비율 (전해질 균형, Na to Potassium Ration)
+  - `Drug` : 약물 타입
 
 - **사용한 모델**
-- 앙상블모델 : RandomForestRegressor
+  - 앙상블모델 : RandomForestRegressor
 
 - **성능 평가 지표**
 - accuracy, precision, recall, f1-score
