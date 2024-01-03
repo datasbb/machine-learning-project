@@ -60,6 +60,6 @@
   - 앙상블모델 : RandomForestRegressor
 
 - **성능 평가 지표**
-- accuracy, precision, recall, f1-score
+  - accuracy, precision, recall, f1-score
   
 ---
